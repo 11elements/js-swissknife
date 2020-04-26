@@ -1,0 +1,30 @@
+{
+  "name": "@11elements/js-swissknife",
+  "version": "1.0.0",
+  "description": "A javascript utility library",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/11elements/js-swissknife.git"
+  },
+  "keywords": [
+    "Utility",
+    "Library",
+    "Javascript"
+  ],
+  "author": "Ewerton Tiago Azevedo <ewerton.azevedo@live.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/11elements/js-swissknife/issues"
+  },
+  "homepage": "https://github.com/11elements/js-swissknife#readme",
+  "devDependencies": {
+    "@types/node": "^13.13.2",
+    "tslint": "^6.1.1",
+    "typescript": "^3.8.3"
+  }
+}
