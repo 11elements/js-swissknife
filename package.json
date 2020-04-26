@@ -1,6 +1,6 @@
 {
   "name": "@11elements/js-swissknife",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A javascript utility library",
   "main": "./dist/index.js",
   "scripts": {
